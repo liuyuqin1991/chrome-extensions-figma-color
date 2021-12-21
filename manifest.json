@@ -1,0 +1,19 @@
+{
+  "name": "figma color for qingcloud portal",
+  "description": "在figma上显示青云portal项目规范的颜色变量的chrome插件",
+  "version": "1.0",
+  "manifest_version": 3,
+  "icons": {
+		"16": "icon.png",
+		"48": "icon.png",
+		"128": "icon.png"
+	},
+  "content_scripts": 
+	[
+		{
+			"matches": ["https://*.figma.com/*"],
+			"js": ["dist/bundle.js"],
+			"run_at": "document_end"
+		}
+	]
+}

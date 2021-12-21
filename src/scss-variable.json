@@ -1,0 +1,318 @@
+{
+
+    "#020508": {
+        "$neutral-20": "#020508",
+        "$black-background": "#020508"
+    },
+    "#09121a": {
+        "$neutral-19": "#09121a",
+        "$title1": "#09121a",
+        "$nav-bg-color": "#09121a"
+    },
+    "#141f29": "$neutral-18",
+    "#1d2b3a": "$neutral-17",
+    "#273849": {
+        "$neutral-16": "#273849",
+        "$title2": "#020508"
+    },
+    "#324558": {
+        "$neutral-15": "#324558",
+        "$title3": "#324558",
+        "$text": "#324558",
+        "$icon-black": "#324558",
+        "$icon-dark-color": "#324558"
+    },
+    "#3e5265": "$neutral-14",
+    "#4c5e70": {
+        "$neutral-13": "#4c5e70",
+        "$help1": "#4c5e70",
+        "$icon-gray-dark": "#4c5e70"
+    },
+    "#5d6b79": "$neutral-12",
+    "#697886": "$neutral-11",
+    "#778592": "$neutral-10",
+    "#86919c": "$neutral-9",
+    "#939ea9": {
+        "$neutral-8": "#939ea9",
+        "$help2": "#939ea9",
+        "$icon-gray": "#939ea9"
+    },
+    "#a1abb5": "$neutral-7",
+    "#aeb8c1": "$neutral-6",
+    "#b6c2cd": {
+        "$neutral-5": "#b6c2cd",
+        "$icon-dark-fill": "#b6c2cd"
+    },
+    "#c6d1dc": "$neutral-4",
+    "#d5dee7": {
+        "$neutral-3": "#d5dee7",
+        "$border-color": "#d5dee7"
+    },
+    "#e4ebf1": {
+        "$neutral-2": "#e4ebf1",
+        "$body-background": "#e4ebf1",
+        "$light-border-color": "#e4ebf1"
+    },
+    "#f5f7fa": {
+        "$neutral-1": "#f5f7fa",
+        "$light-background": "#f5f7fa"
+    },
+    "#ffffff": {
+        "$neutral-0": "#ffffff",
+        "$white": "#ffffff",
+        "$white-background": "#ffffff"
+    },
+
+
+    "#031612": "$green-20",
+    "#05261d": "$green-19",
+    "#073628": "$green-18",
+    "#094633": "$green-17",
+    "#0b563e": "$green-16",
+    "#0d6649": "$green-15",
+    "#0f7654": "$green-14",
+    "#11865f": {
+        "$green-13": "#11865f",
+        "$primary-active": "#11865f",
+        "$success-active": "#11865f"
+    },
+    "#13966a": {
+        "$green-12": "#13966a",
+        "$primary-hover": "#13966a",
+        "$success-hover": "#13966a"
+    },
+    "#15a675": {
+        "$green-11": "#15a675",
+        "$primary": "#15a675",
+        "$success": "#15a675",
+        "$primary-border": "#15a675",
+        "$success-border": "#15a675",
+        "$icon-success": "#15a675",
+        "$icon-coloured-color": "#15a675"
+    },
+    "#18b27f": "$green-10",
+    "#2fb788": "$green-9",
+    "#45bf95": "$green-8",
+    "#5bc7a2": "$green-7",
+    "#71cfaf": "$green-6",
+    "#87d7bc": "$green-5",
+    "#9ddfc9": {
+        "$green-4": "#9ddfc9",
+        "$icon-coloured-fill": "#9ddfc9"
+    },
+    "#b3e7d6": "$green-3",
+    "#c9efe3": "$green-2",
+    "#dff7f0": {
+        "$green-1": "#dff7f0",
+        "$secondary": "#dff7f0"
+    },
+    "#f5fffd": {
+        "$green-0": "#f5fffd",
+        "$primary-background": "#f5fffd",
+        "$success-background": "#f5fffd"
+    },
+
+
+    "#17080a": "$red-20",
+    "#2d0e13": "$red-19",
+    "#3f1317": "$red-18",
+    "#51181b": "$red-17",
+    "#631d1f": "$red-16",
+    "#752223": "$red-15",
+    "#872727": {
+        "$red-14": "#872727",
+        "$danger-active": "#872727"
+    },
+    "#992c2b": "$red-13",
+    "#ab312f": "$red-12",
+    "#bd3633": {
+        "$red-11": "#bd3633",
+        "$danger-hover": "#bd3633"
+    },
+    "#cf3b37": {
+        "$red-10": "#cf3b37",
+        "$danger": "#cf3b37",
+        "$danger-border": "#cf3b37",
+        "$icon-error": "#cf3b37"
+    },
+    "#d44e4b": "$red-9",
+    "#d9615f": "$red-8",
+    "#de7473": "$red-7",
+    "#e38787": "$red-6",
+    "#e89a9b": "$red-5",
+    "#edadaf": "$red-4",
+    "#f2c0c3": "$red-3",
+    "#f7d3d7": "$red-2",
+    "#fce6eb": "$red-1",
+    "#fff9fa": {
+        "$red-0": "#fff9fa",
+        "$danger-background": "#fff9fa"
+    },
+
+
+    "#1a1807": "$yellow-20",
+    "#312b0a": "$yellow-19",
+    "#483e0d": "$yellow-18",
+    "#5f5110": "$yellow-17",
+    "#766413": "$yellow-16",
+    "#8d7716": "$yellow-15",
+    "#a48a19": {
+        "$yellow-14": "#a48a19",
+        "$warning-active": "#a48a19"
+    },
+    "#bb9d1c": "$yellow-13",
+    "#d2b01f": "$yellow-12",
+    "#e9c322": {
+        "$yellow-11": "#e9c322",
+        "$warning-hover": "#e9c322"
+    },
+    "#ffd127": {
+        "$yellow-10": "#ffd127",
+        "$warning": "#ffd127"
+    },
+    "#ffd939": "$yellow-9",
+    "#ffdd4d": "$yellow-8",
+    "#ffe161": {
+        "$yellow-7": "#ffe161",
+        "$warning-border": "#ffe161"
+    },
+    "#ffe575": "$yellow-6",
+    "#ffe989": "$yellow-5",
+    "#ffed9d": "$yellow-4",
+    "#fff1b1": "$yellow-3",
+    "#fff5c5": "$yellow-2",
+    "#fff9d9": "$yellow-1",
+    "#fffded": {
+        "$yellow-0": "#fffded",
+        "$warning-background": "#fffded"
+    },
+
+
+    "#04121d": "$blue-20",
+    "#092333": "$blue-19",
+    "#0c3147": "$blue-18",
+    "#0f3f5b": "$blue-17",
+    "#124d6f": "$blue-16",
+    "#155b83": "$blue-15",
+    "#186997": "$blue-14",
+    "#0b75b7": {
+        "$blue-13": "#0b75b7",
+        "$info-active": "#0b75b7"
+    },
+    "#1e85c7": {
+        "$blue-12": "#1e85c7",
+        "$info-hover": "#1e85c7"
+    },
+    "#2193d3": {
+        "$blue-11": "#2193d3",
+        "$info": "#2193d3",
+        "$info-border": "#2193d3",
+        "$icon-info": "#2193d3"
+    },
+    "#229ce9": "$blue-10",
+    "#3aa2ed": "$blue-9",
+    "#4facef": "$blue-8",
+    "#64b6f1": "$blue-7",
+    "#79c0f3": "$blue-6",
+    "#8ecaf5": "$blue-5",
+    "#a3d4f7": "$blue-4",
+    "#b8def9": "$blue-3",
+    "#cde8fb": "$blue-2",
+    "#e2f2fd": "$blue-1",
+    "#f7fcff": {
+        "$blue-0": "#f7fcff",
+        "$info-background": "#f7fcff"
+    },
+
+
+    "#0e221e": "$dark-green-20",
+    "#162d27": "$dark-green-19",
+    "#1e3830": "$dark-green-18",
+    "#264339": "$dark-green-17",
+    "#2e4e42": "$dark-green-16",
+    "#36594b": "$dark-green-15",
+    "#3e6454": "$dark-green-14",
+    "#466f5d": "$dark-green-13",
+    "#4e7a66": "$dark-green-12",
+    "#56856f": "$dark-green-11",
+    "#5a9075": "$dark-green-10",
+    "#699b82": "$dark-green-9",
+    "#78a68f": "$dark-green-8",
+    "#87b19c": "$dark-green-7",
+    "#96bca9": "$dark-green-6",
+    "#a5c7b6": "$dark-green-5",
+    "#b4d2c3": "$dark-green-4",
+    "#c3ddd0": "$dark-green-3",
+    "#d2e8dd": "$dark-green-2",
+    "#e1f3ea": "$dark-green-1",
+    "#f3f9f7": "$dark-green-0",
+
+
+    "#11041d": "$purple-20",
+    "#1a042b": "$purple-19",
+    "#230439": "$purple-18",
+    "#2c0447": "$purple-17",
+    "#350455": "$purple-16",
+    "#3e0463": "$purple-15",
+    "#470471": "$purple-14",
+    "#50047f": "$purple-13",
+    "#59048d": "$purple-12",
+    "#62049b": "$purple-11",
+    "#6600aa": "$purple-10",
+    "#7519b3": "$purple-9",
+    "#8432bc": "$purple-8",
+    "#934bc5": "$purple-7",
+    "#a264ce": "$purple-6",
+    "#b17dd7": "$purple-5",
+    "#c096e0": "$purple-4",
+    "#cfafe9": "$purple-3",
+    "#dec8f2": "$purple-2",
+    "#ede1fb": "$purple-1",
+    "#f7f7ff": "$purple-0",
+
+
+    "#04181d": "$turquoise-20",
+    "#04262b": "$turquoise-19",
+    "#043439": "$turquoise-18",
+    "#044247": "$turquoise-17",
+    "#045055": "$turquoise-16",
+    "#045e63": "$turquoise-15",
+    "#046c71": "$turquoise-14",
+    "#047a7f": "$turquoise-13",
+    "#04888d": "$turquoise-12",
+    "#04969b": "$turquoise-11",
+    "#00a0aa": "$turquoise-10",
+    "#18a9b3": "$turquoise-9",
+    "#30b2bc": "$turquoise-8",
+    "#48bbc5": "$turquoise-7",
+    "#60c4ce": "$turquoise-6",
+    "#78cdd7": "$turquoise-5",
+    "#90d6e0": "$turquoise-4",
+    "#a8dfe9": "$turquoise-3",
+    "#c0e8f2": "$turquoise-2",
+    "#d8f1fb": "$turquoise-1",
+    "#f3fcff": "$turquoise-0",
+
+
+    "#1d0f04": "$orange-20",
+    "#331c06": "$orange-19",
+    "#492908": "$orange-18",
+    "#5f360a": "$orange-17",
+    "#75430c": "$orange-16",
+    "#8b500e": "$orange-15",
+    "#a15d10": "$orange-14",
+    "#b76a12": "$orange-13",
+    "#cd7714": "$orange-12",
+    "#e38416": "$orange-11",
+    "#f49113": "$orange-10",
+    "#f59c2a": "$orange-9",
+    "#f6a741": "$orange-8",
+    "#f7b258": "$orange-7",
+    "#f8bd6f": "$orange-6",
+    "#f9c886": "$orange-5",
+    "#fad39d": "$orange-4",
+    "#fbdeb4": "$orange-3",
+    "#fce9cb": "$orange-2",
+    "#fdf4e2": "$orange-1",
+    "#fffbf7": "$orange-0"
+}
