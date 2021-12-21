@@ -1,6 +1,6 @@
 {
   "name": "figma color for qingcloud portal",
-  "description": "在figma上显示青云portal项目规范的颜色变量的chrome插件",
+  "description": "在网页版figma上新增显示青云portal项目规范的颜色变量的chrome插件",
   "version": "1.0",
   "manifest_version": 3,
   "icons": {

@@ -2,12 +2,8 @@ import * as $ from 'jquery';
 import * as _ from 'lodash';
 import { getColorName } from './util';
 
-const renderSolidColorDom = (color: string, index: number) => {
+const renderColorDom = (color: string, index: number) => {
   return `<div id="qingcloud-color-dom-${index}" style="display: flex; flex-direction: column; padding: 0 16px;">${getColorName(_.toLower(color))}</div>`;
-};
-
-const renderPropertyColorDom = (color: string, index: number) => {
-  return `<div id="qingcloud-color-dom-${index}" style="display: flex; flex-direction: column; margin: 5px -32px 0;">${getColorName(_.toLower(color))}</div>`;
 };
 
 $(document).on('click', '#react-page', function(){
@@ -19,11 +15,11 @@ $(document).on('click', '#react-page', function(){
     if (colorDoms.length > 1) {
       _.forEach(colorDoms, (_c: any, i: number) => {
         const currentDom = colorDoms.eq(i);
-        currentDom.parent().parent().append(renderSolidColorDom(currentDom.html(), i));
+        currentDom.parent().parent().append(renderColorDom(currentDom.html(), i));
       });
     } 
     else if (colorDoms.length === 1) {
-      colorDoms.parent().parent().append(renderSolidColorDom(colorDoms.html(), 0));
+      colorDoms.parent().parent().append(renderColorDom(colorDoms.html(), 0));
     }
   },200);
 });
