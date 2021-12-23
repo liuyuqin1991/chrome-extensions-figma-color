@@ -6,7 +6,8 @@
     },
     "#09121a": {
         "$neutral-19": "#09121a",
-        "$title1": "#09121a"
+        "$title1": "#09121a",
+        "$nav-bg-color": "#09121a"
     },
     "#141f29": "$neutral-18",
     "#1d2b3a": "$neutral-17",
@@ -16,12 +17,16 @@
     },
     "#324558": {
         "$neutral-15": "#324558",
-        "$title3": "#324558"
+        "$title3": "#324558",
+        "$text": "#324558",
+        "$icon-black": "#324558",
+        "$icon-dark-color": "#324558"
     },
     "#3e5265": "$neutral-14",
     "#4c5e70": {
         "$neutral-13": "#4c5e70",
-        "$help1": "#4c5e70"
+        "$help1": "#4c5e70",
+        "$icon-gray-dark": "#4c5e70"
     },
     "#5d6b79": "$neutral-12",
     "#697886": "$neutral-11",
@@ -29,7 +34,8 @@
     "#86919c": "$neutral-9",
     "#939ea9": {
         "$neutral-8": "#939ea9",
-        "$help2": "#939ea9"
+        "$help2": "#939ea9",
+        "$icon-gray": "#939ea9"
     },
     "#a1abb5": "$neutral-7",
     "#aeb8c1": "$neutral-6",
@@ -44,7 +50,8 @@
     },
     "#e4ebf1": {
         "$neutral-2": "#e4ebf1",
-        "$body-background": "#e4ebf1"
+        "$body-background": "#e4ebf1",
+        "$light-border-color": "#e4ebf1"
     },
     "#f5f7fa": {
         "$neutral-1": "#f5f7fa",
@@ -52,7 +59,8 @@
     },
     "#ffffff": {
         "$neutral-0": "#ffffff",
-        "$white": "#ffffff"
+        "$white": "#ffffff",
+        "$white-background": "#ffffff"
     },
 
 
@@ -65,15 +73,22 @@
     "#0f7654": "$green-14",
     "#11865f": {
         "$green-13": "#11865f",
-        "$primary-active": "#11865f"
+        "$primary-active": "#11865f",
+        "$success-active": "#11865f"
     },
     "#13966a": {
         "$green-12": "#13966a",
-        "$primary-hover": "#13966a"
+        "$primary-hover": "#13966a",
+        "$success-hover": "#13966a"
     },
     "#15a675": {
         "$green-11": "#15a675",
-        "$primary": "#15a675"
+        "$primary": "#15a675",
+        "$success": "#15a675",
+        "$primary-border": "#15a675",
+        "$success-border": "#15a675",
+        "$icon-success": "#15a675",
+        "$icon-coloured-color": "#15a675"
     },
     "#18b27f": "$green-10",
     "#2fb788": "$green-9",
@@ -93,7 +108,8 @@
     },
     "#f5fffd": {
         "$green-0": "#f5fffd",
-        "$primary-background": "#f5fffd"
+        "$primary-background": "#f5fffd",
+        "$success-background": "#f5fffd"
     },
 
 
@@ -115,7 +131,9 @@
     },
     "#cf3b37": {
         "$red-10": "#cf3b37",
-        "$danger": "#cf3b37"
+        "$danger": "#cf3b37",
+        "$danger-border": "#cf3b37",
+        "$icon-error": "#cf3b37"
     },
     "#d44e4b": "$red-9",
     "#d9615f": "$red-8",
@@ -187,7 +205,9 @@
     },
     "#2193d3": {
         "$blue-11": "#2193d3",
-        "$info": "#2193d3"
+        "$info": "#2193d3",
+        "$info-border": "#2193d3",
+        "$icon-info": "#2193d3"
     },
     "#229ce9": "$blue-10",
     "#3aa2ed": "$blue-9",
