@@ -154,10 +154,7 @@
     },
     "#ffd939": "$yellow-9",
     "#ffdd4d": "$yellow-8",
-    "#ffe161": {
-        "$yellow-7": "#ffe161",
-        "$warning-border": "#ffe161"
-    },
+    "#ffe161": "$yellow-7",
     "#ffe575": "$yellow-6",
     "#ffe989": "$yellow-5",
     "#ffed9d": "$yellow-4",
@@ -203,6 +200,8 @@
         "$blue-0": "#f7fcff",
         "$info-background": "#f7fcff"
     },
+    "#0366d6": "$blue-99",
+    "#035cc1": "$blue-98",
 
 
     "#0e221e": "$dark-green-20",
